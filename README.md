@@ -14,7 +14,7 @@ This repository contains solutions to the assignments and slides for the CE223: 
 
 ## Assignments
 
-In the "Assignment" folder, you will find the solutions to the five theoretical and practical assignments during the course.
+In the "Assignments" folder, you will find the solutions to the five theoretical and practical assignments during the course.
 
 ## Slides
 
