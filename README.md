@@ -10,6 +10,7 @@ This repository contains solutions to the assignments and slides for the CE223: 
 - [Overview](#overview)
 - [Assignments](#assignments)
 - [Slides](#slides)
+- [Maintainer](#maintainer)
 
 ## Assignments
 
