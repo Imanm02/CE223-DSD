@@ -1,4 +1,4 @@
-# CE223-DigitalSystemsDesign
+# CE223-DSD
 Solutions to Dr. Bayat's CE223: Digital Systems Design (Sharif University of Technology - Fall 2023) Assignments
 
 ## Overview
