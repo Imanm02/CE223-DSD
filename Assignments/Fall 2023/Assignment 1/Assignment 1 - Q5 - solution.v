@@ -37,4 +37,3 @@ module test_wave();
 		#6 d = 1'b0;
 	end
 endmodule
-
