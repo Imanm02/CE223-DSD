@@ -36,4 +36,5 @@ module one_hot_counter(reset, enable, clock, out);
 			end
 		end
 	end
+	
 endmodule

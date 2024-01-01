@@ -56,4 +56,5 @@ module new_counter(count, done, load, data_in, clk);
 	initial begin
 		i = 0;
 	end
+	
 endmodule

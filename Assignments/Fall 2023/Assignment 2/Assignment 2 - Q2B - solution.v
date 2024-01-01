@@ -26,4 +26,5 @@ module decoder(in, out0, out1, out2, out3);
 	assign out1 = (in == 2'b01)?(1):(0);
 	assign out2 = (in == 2'b10)?(1):(0);
 	assign out3 = (in == 2'b11)?(1):(0);
+	
 endmodule

@@ -63,4 +63,3 @@ module Q3_Test;
 	always #5 clk = ~clk;
       
 endmodule
-
