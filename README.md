@@ -1,9 +1,9 @@
 # CE223-DSD
-Solutions to Dr. Bayat's CE223: Digital Systems Design (Sharif University of Technology - Fall 2023) Assignments
+Solutions to Dr. Bayat's CE223: Digital Systems Design (Sharif University of Technology - Fall 2022) Assignments
 
 ## Overview
 
-This repository contains solutions to the assignments and slides for the CE223: Digital Systems Design course at Sharif University of Technology, Fall 2023, taught by Dr. Bayat.
+This repository contains solutions to the assignments and slides for the CE223: Digital Systems Design course at Sharif University of Technology, Fall 2022, taught by Dr. Bayat.
 
 ## Table of Contents
 
