@@ -69,4 +69,3 @@ module voter_test;
 	end
       
 endmodule
-

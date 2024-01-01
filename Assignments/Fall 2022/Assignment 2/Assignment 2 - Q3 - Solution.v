@@ -47,10 +47,10 @@ endmodule
 
 module half_adder (S, C, A, B);
 
-        input A , B; 
-        output S , C;
-        xor ( S , A , B );
-        and ( C , A , B );
+    input A , B; 
+    output S , C;
+    xor ( S , A , B );
+    and ( C , A , B );
 
 endmodule 
 
@@ -59,5 +59,3 @@ module full_adder (output sum, output c_out, input a, input b, input c_in);
 	assign {c_out, sum} = a + b + c_in;  
 	
 endmodule
-	
-	
